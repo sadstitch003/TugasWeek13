@@ -30,9 +30,7 @@ namespace Program
 
                 Console.Clear();
                 if (menu == 1)
-                {
                     tampilkanScroll(scrolls);
-                }
                 else if (menu == 2)
                 {
                     Console.WriteLine("How many scroll to add:");
